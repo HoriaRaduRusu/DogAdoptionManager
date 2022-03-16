@@ -50,3 +50,45 @@ compile_commands.json
 
 # QtCreator local machine specific files for imported projects
 *creator.user*
+
+# Extras
+Solution/.vs/Solution/v16/.suo
+*.db
+*.db-shm
+*.db-wal
+*.opendb
+*.ipch
+Solution/Solution/x64/Debug/moc/moc_AdminGUI.cpp
+Solution/Solution/x64/Debug/moc/moc_Main_GUI.cpp
+Solution/Solution/x64/Debug/moc/moc_UserGUI.cpp
+*.props
+*.stash
+*.idx
+Solution/Solution/x64/Debug/qmake/temp/Makefile
+Solution/Solution/x64/Debug/qmake/temp/props.txt
+*.log
+*.pro
+Solution/Solution/x64/Debug/rcc/qrc_Main_GUI.cpp
+*.recipe
+*.tlog
+Solution/Solution/x64/Debug/vc142.pdb
+Solution/Solution/x64/Release/moc/moc_AdminGUI.cpp
+Solution/Solution/x64/Release/moc/moc_Main_GUI.cpp
+Solution/Solution/x64/Release/moc/moc_UserGUI.cpp
+Solution/Solution/x64/Release/qmake/temp/Makefile
+Solution/Solution/x64/Release/qmake/temp/props.txt
+Solution/Solution/x64/Release/uic/ui_AdminGUI.h
+Solution/Solution/x64/Release/uic/ui_Main_GUI.h
+Solution/Solution/x64/Debug/uic/ui_AdminGUI.h
+Solution/Solution/x64/Debug/uic/ui_Main_GUI.h
+Solution/Solution/x64/Debug/uic/ui_UserGUI.h
+Solution/Solution/x64/Release/uic/ui_UserGUI.h
+Solution/x64/Debug/Solution.ilk
+Solution/x64/Debug/Solution.pdb
+
+Solution/Solution.sln
+*.obj
+*.cbt
+*.vcxproj
+*.filters
+*.exe
