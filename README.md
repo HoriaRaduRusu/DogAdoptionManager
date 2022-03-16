@@ -4,13 +4,13 @@ Application that manages a dog adoption centre, providing application modes for 
 ## Used Concepts and Several Application Features
 - Graphical User Interface, built using the ```QT Framework```
 - Layered Architecture: ```presentation layer``` (application UI), ```business layer``` (controllers), ```persistence layer``` (repositories and model), ```database layer``` (database storing dogs)
-- Usage of OOP concepts such as ```inheritance```, ```encapsulation```, ```polymorphism``` and ```inheritance```. 
+- Usage of OOP concepts such as ```inheritance```, ```encapsulation```, ```polymorphism``` and ```abstraction```. 
 - Usage of QT signals and slots
 - Exceptions handling
 
 ## Design Patterns Used
 - ```Model-View-Controller``` for displaying the contents of the database in the table, the photos being displayed using QT delegates
-- ```Command``` design patter, used for the undo/redo functionality
+- ```Command``` design pattern, used for the undo/redo functionality
 
 ## Other Application Features
 - Letting the user select the application mode (```user``` or ```admin```) and, if ```user``` is chosen, what type of adoption list is wanted (```CSV``` or ```HTML```) at launch.
@@ -20,7 +20,7 @@ Application that manages a dog adoption centre, providing application modes for 
 - displaying a table with all the available dogs
 - adding a new dog
 - removing an existing dog
-- updating an existing dog
+- updating an existing dog's information
 - displaying statistics - a bar chart showing the quantity of dogs of each available breed
 
 ## User Mode Features

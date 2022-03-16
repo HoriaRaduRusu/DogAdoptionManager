@@ -86,9 +86,11 @@ Solution/Solution/x64/Release/uic/ui_UserGUI.h
 Solution/x64/Debug/Solution.ilk
 Solution/x64/Debug/Solution.pdb
 
-Solution/Solution.sln
+
+
 *.obj
 *.cbt
 *.vcxproj
 *.filters
 *.exe
+*.sln
